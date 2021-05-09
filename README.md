@@ -1,20 +1,14 @@
 # Dsvendas
 
 <p align="center">
- <a href="#Sobre">Sobre</a> •
- <a href="#Instalação">Instalação</a> • 
- <a href="#Pré-requisito">Pré-requisito</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#autor">Autor</a>
+ <a href="https://github.com/Nickcarv18/projeto-sds3/#computer-sobre">Sobre</a> •
+ <a href="https://github.com/Nickcarv18/projeto-sds3/blob/main/README.md#inbox_tray-instala%C3%A7%C3%A3o">Instalação</a> • 
+ <a href="https://github.com/Nickcarv18/projeto-sds3/blob/main/README.md#information_source-pr%C3%A9---requisito">Pré-requisito</a> • 
+ <a href="https://github.com/Nickcarv18/projeto-sds3/blob/main/README.md#-tecnologias">Tecnologias</a> • 
+ <a href="https://github.com/Nickcarv18/projeto-sds3/blob/main/README.md#pushpin-autor">Autor</a>
 </p>
 
-​                                                                                                                [![Netlify Status](https://api.netlify.com/api/v1/badges/ad64eeae-4c22-4dbe-af48-5e98917c677f/deploy-status)](https://app.netlify.com/sites/nicoli-dsvendas/deploys) ![GitHub repo size](https://img.shields.io/github/repo-size/Nickcarv18/projeto-sds3)
-
-<p align="center">
-  <img alt="Demo on Netlify" src=https://res.cloudinary.com/nickcarv18/video/upload/ac_none,f_gif/v1620520278/Dsvendas.gif>
-</p>
-
-
+​                                              
 
 ## :computer: Sobre
 
@@ -65,9 +59,9 @@ Projeto criado na Semana Spring React - SDS 3.0. Está aplicação consiste em e
 
 <img style="border-radius: 20%;" src="https://avatars.githubusercontent.com/u/68923693?s=400&u=a1532671549193d89b2fc01370e4bf204013af02&v=4" width="100px;" alt=""/>
 
-​                                                        Feito por Nicoli Carvalho 👋🏽 Entre em contato!
+  Feito por Nicoli Carvalho 👋🏽 Entre em contato!
 
-​                                                          [![Linkedin Badge](https://img.shields.io/badge/-Nicoli Carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicoli-carvalho/)](https://www.linkedin.com/in/nicoli-carvalho/) [![Outlook](https://img.shields.io/badge/-nicolicaravlho1@hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:nicolicaravlho1@hotmail.com)](mailto:nicolicaravlho1@hotmail.com)
+ [![Linkedin](https://img.shields.io/badge/-Nicoli Carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicoli-carvalho/)](https://www.linkedin.com/in/nicoli-carvalho/) [![Outlook](https://img.shields.io/badge/-nicolicaravlho1@hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:nicolicaravlho1@hotmail.com)](mailto:nicolicaravlho1@hotmail.com)
 
 
 
