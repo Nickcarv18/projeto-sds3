@@ -1,14 +1,19 @@
-# Dsvendas
+# ⚡Dsvendas
 
 <p align="center">
  <a href="https://github.com/Nickcarv18/projeto-sds3/#computer-sobre">Sobre</a> •
  <a href="https://github.com/Nickcarv18/projeto-sds3/#inbox_tray-instala%C3%A7%C3%A3o">Instalação</a> • 
  <a href="https://github.com/Nickcarv18/projeto-sds3/#information_source-pr%C3%A9---requisito">Pré-requisito</a> • 
  <a href="https://github.com/Nickcarv18/projeto-sds3/#-tecnologias">Tecnologias</a> • 
- <a href="https://github.com/Nickcarv18/projeto-sds3/#pushpin-autor">Autor</a>
 </p>
 
-​                                              
+
+
+![DSvendas](https://github.com/Nickcarv18/projeto-sds3/blob/main/img/Dsvendas1.JPG)
+
+
+
+![DSvendas2](https://github.com/Nickcarv18/projeto-sds3/blob/main/img/dsvendas2.JPG)
 
 ## :computer: Sobre
 
@@ -54,14 +59,6 @@ Projeto criado na Semana Spring React - SDS 3.0. Está aplicação consiste em e
 * TypeScript  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
   
-
-## :pushpin: Autor
-
-<img style="border-radius: 20%;" src="https://avatars.githubusercontent.com/u/68923693?s=400&u=a1532671549193d89b2fc01370e4bf204013af02&v=4" width="100px;" alt=""/>
-
-  Feito por Nicoli Carvalho 👋🏽 Entre em contato!
-
- [![Linkedin](https://img.shields.io/badge/-Nicoli Carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicoli-carvalho/)](https://www.linkedin.com/in/nicoli-carvalho/)   [![Outlook](https://img.shields.io/badge/-nicolicaravlho1@hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:nicolicaravlho1@hotmail.com)](mailto:nicolicaravlho1@hotmail.com)
 
 
 
